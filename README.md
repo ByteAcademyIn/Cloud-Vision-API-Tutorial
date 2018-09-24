@@ -1,7 +1,7 @@
 # Cloud-Vision-API-Tutorial
 Detect Labels, Faces, and Landmarks in Images with the Cloud Vision API
 
-Once you have created a json file specifying the query type, use this code snippet to run the query:
+Once you have created a json file specifying the query type, use this code snippet to run the query, replacing request.json with your filename:
 
 
 ```bash
